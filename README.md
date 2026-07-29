@@ -53,8 +53,9 @@ marketlink/
 ## 📦 Installation
 Install 'new_data_project' directly from Github:
 
+GIT CLONE
 ```bash
-pip install git+https://github.com/LukmanAbdulkadri1/new_data_project.git
+git clone https://github.com/LukmanAbdulkadri1/new_data_project.git
 ```
 
 Move into the project
