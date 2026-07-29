@@ -51,11 +51,11 @@ marketlink/
 ---
 
 ## 📦 Installation
-
-Clone the repository
+Install 'new_project' directly from Github:
 
 ```bash
-git clone https://github.com/LukmanAbdulkadri1/new_project.git
+pip install
+git+https://github.com/LukmanAbdulkadri1/new_project.git
 ```
 
 Move into the project
