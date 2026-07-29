@@ -28,7 +28,7 @@ It automatically creates a project structure, virtual environment, installs esse
 Running
 
 ```bash
-new_project marketlink
+new_data_project marketlink
 ```
 
 creates:
@@ -55,13 +55,13 @@ marketlink/
 Clone the repository
 
 ```bash
-git clone https://github.com/LukmanAbdulkadri1/new_project.git
+git clone https://github.com/LukmanAbdulkadri1/new_data_project.git
 ```
 
 Move into the project
 
 ```bash
-cd new_project
+cd new_data_project
 ```
 
 Install
@@ -77,13 +77,13 @@ pip install -e .
 Create a new project
 
 ```bash
-new_project "Prooject_name"
+new_data_project "Project_name"
 ```
 
 Example
 
 ```bash
-new_project GoogleAnalytics
+new_data_project GoogleAnalytics
 ```
 
 The CLI will:
@@ -117,7 +117,7 @@ The CLI will:
 
 
 ```
-new_project marketlink
+new_data_project marketlink
 ```
 
 

@@ -1,0 +1,8 @@
+CLI.py
+README.md
+pyproject.toml
+new_data_project.egg-info/PKG-INFO
+new_data_project.egg-info/SOURCES.txt
+new_data_project.egg-info/dependency_links.txt
+new_data_project.egg-info/entry_points.txt
+new_data_project.egg-info/top_level.txt

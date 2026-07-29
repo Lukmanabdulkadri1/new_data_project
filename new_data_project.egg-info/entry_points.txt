@@ -1,0 +1,2 @@
+[console_scripts]
+new_data_project = CLI:main

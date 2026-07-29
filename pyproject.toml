@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "new_data_project"
+version = "1.0.0"
+
+[project.scripts]
+new_data_project = "CLI:main"
